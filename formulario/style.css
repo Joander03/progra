@@ -1,0 +1,41 @@
+#containers{
+    border-style: solid;
+    color: black;
+}
+
+
+#row{
+    background-color: rgb(55, 0, 255);
+}
+
+#titulo{
+    background-color: rgb(221, 255, 127);
+}
+
+#respuesta_nombre{
+    color: red;
+}
+
+#respuesta_apellido{
+    color: red;
+}
+
+#respuesta_fecha{
+    color: red;
+}
+
+#respuesta_direccion{
+    color: red;
+}
+#respuesta_ciudad{
+    color: red;
+}
+#respuesta_genero{
+    color: red;
+}
+#respuesta_correo{
+    color: red;
+}
+#respuesta_comentario{
+    color: red;
+}
